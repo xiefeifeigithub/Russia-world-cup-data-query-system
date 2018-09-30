@@ -1,11 +1,10 @@
 
 ==================================== About Me========================================
-³ÌĞòÔ±£ºÒ×·è
+Programmerï¼šæ˜“ç–¯(yifeng)
 
-±àÒëÆ÷£ºVS2017 Community
+Toolï¼šVS2017 Community
 
-ÓïÑÔ£ºC++
+Languageï¼šC++
 
-°æ±¾1.0°æ±¾ -- ÄÜ¹»ÊµÏÖÎÄ¼şÊı¾İµÄ¾²Ì¬¶ÁĞ´²Ù×÷¡£
-
-°æ±¾2.0°æ±¾ -- ÄÜ¹»ÊµÏÖÎÄ¼şÊı¾İµÄ¶¯Ì¬²Ù×÷£¬¸ù¾İÓÃ»§ÊäÈëÊ±¼ä¶¯Ì¬Éú³É»ı·Ö°ñºÍÉäÊÖ°ñ¡£
+Version 1: read and write operation of file data and the whole program framework.
+Version 2: it implements real-time generation and display of scoreboards and shooters based on user input.
